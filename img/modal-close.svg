@@ -1,0 +1,5 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="20" cy="20" r="19" stroke="#CACACA" stroke-width="2"/>
+<line x1="1" y1="-1" x2="26.0185" y2="-1" transform="matrix(0.707107 0.707107 0.707107 -0.707107 11.1045 10)" stroke="#CACACA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="28.1045" y1="11.4142" x2="10.4137" y2="29.105" stroke="#CACACA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
